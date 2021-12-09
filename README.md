@@ -1,3 +1,3 @@
 # Newton
-Essai de redéfinition des ondes électromagnétiques en physique classique.
+Essai litéraire pour redéfinir la physique.
 Titre: "La revanche de Raoult et le secret des lumières"
